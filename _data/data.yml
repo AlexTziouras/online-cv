@@ -7,46 +7,26 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Αλέξανδρος Τζιούρας
+    tagline: Sport Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: alextziouras@gmail.com
+    phone: 6947555248
+    citizenship: Λάρισα
 
     languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Αγγλικά
+        level: ESB PROFICIENCY (C2)
 
     interests:
-      - item: Climbing
+      - item: Crossfit
         link:
 
-      - item: Snowboarding
+      - item: Άρση Βαρών
         link:
 
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
@@ -58,9 +38,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bsc in Sport Management
+      university: University of Peloponnese
+      time: 2018 - 2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +49,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Sport Leaders You (seminar)
+      university: isportsmanagement
+      time: 2021 - 2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,114 +60,93 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+     - degree: Η Τεχνολογία στον Αθλητισμό (seminar)
+      university: isportsmanagement
+      time: 2020 - 2021
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+      - degree: Διοίκηση Επαγγελματικού Αθλητισμού εν μέσω Covid-19 , ευκαιρίες και προκλήσεις(seminar)
+      university: isportsmanagement
+      time: 2020 - 2021
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+          
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: ΒΟΗΘΟΣ ΤΜΗΜΑΤΟΣ ΜΑΡΚΕΤΙΝΓΚ,ΕΚΠΑΙΔΕΥΟΜΕΝΟΣ ΑΘΛΗΤΙΚΟΣ ΜΑΝΑΤΖΕΡ (ΕΘΕΛΟΝΤΙΚΗ ΕΡΓΑΣΙΑ)
+      time: 24/10/2020 - 16/6/2021
+      company: ΠΑΕ ΑΠΟΛΛΩΝ ΛΑΡΙΣΑΣ 1930
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Αρχική αξιολόγηση υποψήφιων για διαφήμιση εταιρειών, η τηλεφωνική ή ηλεκτρονική επικοινωνία μαζί τους, η προσωπική ενημέρωση του διαφημιστικού πακέτου της ΠΑΕ, η διεκπεραίωση των συμφωνητικών των χορηγών της ΠΑΕ καθώς και την ανατροφοδότηση του πελάτη για τις ενέργειες μας κατά την διάρκεια του αγώνα (φωτογραφίες βίντεο κλπ.).Επίσης μέρος της εργασίας μου ήταν η συμμετοχή μου στις διαδικασίες μεταγραφών της ομάδας , η διεκπεραίωση των συμβολαίων των παικτών προς υπογραφή καθώς και η προετοιμασία και η αποστολή στα αρμόδια όργανα (ΕΠΟ, ΓΓΑ, SUPERLEAGUE 2) εγγράφων για την ομαλή διεξαγωγή αγώνων.
+    - role: ΥΠΑΛΛΗΛΟΣ ΜΑΡΚΕΤΙΝΓΚ (ΠΡΑΚΤΙΚΗ ΑΣΚΗΣΗ)
+      time: 1/7/2021 - 31/8/2021
+      company: ΠΑΕ ΑΤΡΟΜΗΤΟΣ ΑΘΗΝΩΝ 1923
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Αρχική αξιολόγηση υποψήφιων για διαφήμιση εταιρειών, η τηλεφωνική ή ηλεκτρονική επικοινωνία μαζί τους, η προσωπική ενημέρωση του διαφημιστικού πακέτου της ΠΑΕ, η διεκπεραίωση των συμφωνητικών των χορηγών της ΠΑΕ καθώς και την ανατροφοδότηση του πελάτη για τις ενέργειες μας κατά την διάρκεια του αγώνα (φωτογραφίες βίντεο κλπ.), συμμετοχή στην διαδικασία πώλησης των εισιτήριών διαρκείας
 projects:
-    title: Projects
+    title: Εθελοντισμοί
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: SPARTAN RACE 2018:
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: Εθελοντική εργασία στην φύλαξη του εξοπλισμού των αθλητών.
 
-      - title: DevStudio
+      - title: DΑΥΘΕΝΤΙΚΟΣ ΜΑΡΑΘΩΝΙΟΣ ΑΘΗΝΑΣ 2018
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: Εγγραφές αθλητών.
 
-      - title: Tempo
+      - title: SPARTAN RACE 2019
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: Υπεύθυνος της ομάδας φύλαξης εξοπλισμού των αθλητών με τιμητικό έπαινο για την σωστή καθοδήγηση τους.
 
-      - title: Atom
+      - title: IRONMAN 70.3 COSTA NAVARINO
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: Εθελοντική εργασία στην εγγραφή των αθλητών και συνοδεία ασφαλείας των αθλητών κατά την διάρκεια του αγώνα.
 
-      - title: Delta
+      - title: 9th XTERRA Greece Championship
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: Υπεύθυνος Εθελοντισμού
 
 publications:
-    title: Publications
+    title: Η επαγγελματική αποκατάσταση των Elite αθλητών κατα τη διάρκεια της καριέρας τους και με το πέρας αυτής (Πτυχιακή υπο δημοσίευση)
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Επικοινωνιακός
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Εργατικός
+        level: 100%
 
-      - name: Angular
-        level: 98%
+      - name: Πρόθυμος
+        level: 100%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Οργανωτικός
+        level: 100%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Συνεπής
+        level: 100%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

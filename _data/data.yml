@@ -7,14 +7,14 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Αλέξανδρος Τζιούρας
-    tagline: Sport Manager
+    name: Αλέξανδρος Τζιούρας 
+    tagline: Sport Management
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: alextziouras@gmail.com
     phone: 6947555248
-    citizenship: Λάρισα
+    citizenship:Λάρισα
 
     languages:
       - idiom: Αγγλικά
@@ -27,22 +27,49 @@ sidebar:
       - item: Άρση Βαρών
         link:
 
-
 career-profile:
     title: Career Profile
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
-    - degree: Bsc in Sport Management
-      university: University of Peloponnese
-      time: 2018 - 2022
     - degree: Sport Leaders You (seminar)
       university: isportsmanagement
       time: 2021 - 2022
-     - degree: Η Τεχνολογία στον Αθλητισμό (seminar)
-      university: isportsmanagement
-      time: 2020 - 2021
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: Bsc in Sport Management
+      university: University of Peloponnese
+      time: 2018 - 2022
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
       - degree: Διοίκηση Επαγγελματικού Αθλητισμού εν μέσω Covid-19 , ευκαιρίες και προκλήσεις(seminar)
       university: isportsmanagement
       time: 2020 - 2021
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
     - role: ΒΟΗΘΟΣ ΤΜΗΜΑΤΟΣ ΜΑΡΚΕΤΙΝΓΚ,ΕΚΠΑΙΔΕΥΟΜΕΝΟΣ ΑΘΛΗΤΙΚΟΣ ΜΑΝΑΤΖΕΡ (ΕΘΕΛΟΝΤΙΚΗ ΕΡΓΑΣΙΑ)
       time: 24/10/2020 - 16/6/2021
@@ -54,6 +81,17 @@ experiences:
       company: ΠΑΕ ΑΤΡΟΜΗΤΟΣ ΑΘΗΝΩΝ 1923
       details: |
         Αρχική αξιολόγηση υποψήφιων για διαφήμιση εταιρειών, η τηλεφωνική ή ηλεκτρονική επικοινωνία μαζί τους, η προσωπική ενημέρωση του διαφημιστικού πακέτου της ΠΑΕ, η διεκπεραίωση των συμφωνητικών των χορηγών της ΠΑΕ καθώς και την ανατροφοδότηση του πελάτη για τις ενέργειες μας κατά την διάρκεια του αγώνα (φωτογραφίες βίντεο κλπ.), συμμετοχή στην διαδικασία πώλησης των εισιτήριών διαρκείας
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 projects:
     title: Εθελοντισμοί
     intro: >
@@ -64,8 +102,8 @@ projects:
       - title: SPARTAN RACE 2018:
         link: "#hook"
         tagline: Εθελοντική εργασία στην φύλαξη του εξοπλισμού των αθλητών.
-
-      - title: DΑΥΘΕΝΤΙΚΟΣ ΜΑΡΑΘΩΝΙΟΣ ΑΘΗΝΑΣ 2018
+     
+     - title: DΑΥΘΕΝΤΙΚΟΣ ΜΑΡΑΘΩΝΙΟΣ ΑΘΗΝΑΣ 2018
         link: "#"
         tagline: Εγγραφές αθλητών.
 
@@ -76,7 +114,7 @@ projects:
       - title: IRONMAN 70.3 COSTA NAVARINO
         link: "#"
         tagline: Εθελοντική εργασία στην εγγραφή των αθλητών και συνοδεία ασφαλείας των αθλητών κατά την διάρκεια του αγώνα.
-
+      
       - title: 9th XTERRA Greece Championship
         link: "#"
         tagline: Υπεύθυνος Εθελοντισμού
@@ -90,6 +128,7 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
+
 
     toolset:
       - name: Επικοινωνιακός

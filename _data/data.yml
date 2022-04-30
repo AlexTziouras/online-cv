@@ -30,59 +30,19 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
 education:
     - degree: Bsc in Sport Management
       university: University of Peloponnese
       time: 2018 - 2022
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
     - degree: Sport Leaders You (seminar)
       university: isportsmanagement
       time: 2021 - 2022
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
      - degree: Η Τεχνολογία στον Αθλητισμό (seminar)
       university: isportsmanagement
       time: 2020 - 2021
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
       - degree: Διοίκηση Επαγγελματικού Αθλητισμού εν μέσω Covid-19 , ευκαιρίες και προκλήσεις(seminar)
       university: isportsmanagement
       time: 2020 - 2021
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-          
 experiences:
     - role: ΒΟΗΘΟΣ ΤΜΗΜΑΤΟΣ ΜΑΡΚΕΤΙΝΓΚ,ΕΚΠΑΙΔΕΥΟΜΕΝΟΣ ΑΘΛΗΤΙΚΟΣ ΜΑΝΑΤΖΕΡ (ΕΘΕΛΟΝΤΙΚΗ ΕΡΓΑΣΙΑ)
       time: 24/10/2020 - 16/6/2021

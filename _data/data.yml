@@ -38,7 +38,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: Bsc in Sport Management
+    - degree: ' Bsc in Sport Management '
       university: University of Peloponnese
       time: 2018 - 2022
       details: |
